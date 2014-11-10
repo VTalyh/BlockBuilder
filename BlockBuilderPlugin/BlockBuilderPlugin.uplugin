@@ -1,0 +1,20 @@
+{
+    "FileVersion" : 3,
+	
+	"FriendlyName" : "BlockBuilderPlugin",
+	"Version" : 1,
+	"VersionName" : "0.1.0",
+	"CreatedBy" : "ViT",
+	"CreatedByURL" : "https://github.com/VTalyh",
+	"EngineVersion" : 1579795,
+	"Description" : "Block Builder Plugin",
+	"Category" : "Sample.Plugin",
+	
+    "Modules" :
+	[
+		{
+			"Name" : "BlockBuilderPlugin",
+			"Type" : "Editor"
+		}
+	]
+}
