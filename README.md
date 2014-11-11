@@ -3,7 +3,7 @@ Block Builder
 
 Example of UE4 plugin created on lessons of the portal 3DBuzz
 
-![My image](VTalyh.github.com/BlockBuilder/BlockBuilder.png)
+![ScreenShot](https://raw.github.com/VTalyh/BlockBuilder/master/BlockBuilder.png)
 
 Legal info
 ============
